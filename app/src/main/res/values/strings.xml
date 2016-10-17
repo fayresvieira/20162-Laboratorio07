@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Laboratorio07</string>
+    <string name="valor_m_ximo" />
+    <string name="valor_m_nimo" />
+
+
+    <string-array name="array_ufs">
+    <item>Acre</item>
+    <item>Rio de janeiro</item>
+    <item>São Paulo</item>
+    </string-array>
+
+
+    <string-array name="array_tipo">
+        <item>Selecione um tipo de operação</item>
+        <item>Comprar</item>
+        <item>Vender</item>
+    </string-array>
+
+    <string-array name="array_estado">
+    <item>Estado da moto</item>
+    <item>Nova</item>
+    <item>Usada</item>
+
+
+    </string-array>
+    
+</resources>
